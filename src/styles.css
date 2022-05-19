@@ -21,7 +21,7 @@ body {
 }
 .btn {
   display: inline-block;
-  background: #000;
+  background: steelblue;
   color: #fff;
   border: none;
   padding: 5px 10px;
@@ -43,7 +43,9 @@ body {
   display: block;
   width: 100%;
 }
-
+.add-form{
+  margin-bottom: 2rem;
+}
 .form-control {
   margin: 20px 0;
 }
@@ -57,7 +59,7 @@ body {
   height: 40px;
   margin: 5px;
   padding: 3px 7px;
-  font-size: 17px;
+  font-size: 14px;
 }
 
 .form-control-check {
